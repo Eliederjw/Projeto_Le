@@ -273,7 +273,7 @@ a {
     .botao {
         display: block;
         width: 306px;
-        /* margin-left: 116px; */
+        margin: 0 auto;
     }
 }
 @media (min-width: 375px) {
@@ -646,11 +646,5 @@ a {
 
 
     /* contato */
-
-    .botao {
-        display: block;
-        width: 306px;
-        margin-left: 116px;
-    }
    
 }
